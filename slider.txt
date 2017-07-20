@@ -1,0 +1,8 @@
+Slider specifications.
+
+ - Should slide from left to right by default
+ - Should slide to the first image after the last image
+ - Should contain two arrow buttons to manually slide 
+   in either direction
+ - Should contain indicators to show which slide you are on
+ - Indicators can be clicked on to slide to that individual image

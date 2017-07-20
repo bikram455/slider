@@ -1,0 +1,9 @@
+.slider{width: 1124px;height: 768px;margin: 0 auto}
+.left{width: 1074px;height: 768px;float: left;}
+.right{width: 50px;height: 768px;float: right;}
+.container{width: 1024px;height: 768px;overflow: hidden;float: right;}
+#images{width:5144px;height: 768px;float: left;}
+#prev{float: left;width: 50px;height: 50px;background:url("../images/previous.png");margin-top:320px;border: none;}
+#next{float: right;width: 50px;height: 50px;background:url("../images/next.png");margin-top:320px;border: none;}
+.pointer{margin:0 auto;width: 124px}
+#one,#two,#three,#four,#five{width: 20px;height: 20px;border: none;background: url("../images/passive.png");}
